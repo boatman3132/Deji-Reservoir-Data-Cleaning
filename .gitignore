@@ -1,0 +1,6 @@
+/check_csv
+/img
+*.ods
+*.xlsx
+.venv
+.DS_Store
